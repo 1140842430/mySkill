@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9cfd48fd-edfc-4749-aa3b-94267f03c63a",
+  "path": "web-design-guidelines",
+  "path_key": "web-design-guidelines",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "vercel-labs/agent-skills/web-design-guidelines",
+    "subpath": "skills\\web-design-guidelines",
+    "branch": null
+  }
+}
